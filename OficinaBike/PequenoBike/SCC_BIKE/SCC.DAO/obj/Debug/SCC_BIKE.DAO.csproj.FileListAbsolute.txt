@@ -1,0 +1,8 @@
+D:\Projetos\OficinaBike\PequenoBike\SCC_BIKE\SCC.DAO\obj\Debug\SCC_BIKE.DAO.csprojResolveAssemblyReference.cache
+D:\Projetos\OficinaBike\PequenoBike\SCC_BIKE\SCC.DAO\bin\Debug\SCC_BIKE.DAO.dll.config
+D:\Projetos\OficinaBike\PequenoBike\SCC_BIKE\SCC.DAO\bin\Debug\SCC_BIKE.DAO.dll
+D:\Projetos\OficinaBike\PequenoBike\SCC_BIKE\SCC.DAO\bin\Debug\SCC_BIKE.DAO.pdb
+D:\Projetos\OficinaBike\PequenoBike\SCC_BIKE\SCC.DAO\bin\Debug\SCC_BIKE.DTO.dll
+D:\Projetos\OficinaBike\PequenoBike\SCC_BIKE\SCC.DAO\bin\Debug\SCC_BIKE.DTO.pdb
+D:\Projetos\OficinaBike\PequenoBike\SCC_BIKE\SCC.DAO\obj\Debug\SCC_BIKE.DAO.dll
+D:\Projetos\OficinaBike\PequenoBike\SCC_BIKE\SCC.DAO\obj\Debug\SCC_BIKE.DAO.pdb

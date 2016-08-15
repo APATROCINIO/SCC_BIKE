@@ -1,0 +1,5 @@
+D:\Projetos\OficinaBike\PequenoBike\SCC_BIKE\SCC.DTO\bin\Debug\SCC_BIKE.DTO.dll
+D:\Projetos\OficinaBike\PequenoBike\SCC_BIKE\SCC.DTO\bin\Debug\SCC_BIKE.DTO.pdb
+D:\Projetos\OficinaBike\PequenoBike\SCC_BIKE\SCC.DTO\obj\Debug\SCC_BIKE.DTO.dll
+D:\Projetos\OficinaBike\PequenoBike\SCC_BIKE\SCC.DTO\obj\Debug\SCC_BIKE.DTO.pdb
+D:\Projetos\OficinaBike\PequenoBike\SCC_BIKE\SCC.DTO\obj\Debug\SCC_BIKE.DTO.csprojResolveAssemblyReference.cache

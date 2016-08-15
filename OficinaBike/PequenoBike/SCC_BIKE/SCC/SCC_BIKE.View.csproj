@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E2819B1B-237B-49AE-BDB5-ABCF6144DC9E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SCC_AUTO</RootNamespace>
+    <AssemblyName>SCC_AUTO</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmConsultaSituacaoChamado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaSituacaoChamado.Designer.cs">
+      <DependentUpon>frmConsultaSituacaoChamado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadChamados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadChamados.Designer.cs">
+      <DependentUpon>frmCadChamados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadClientes.Designer.cs">
+      <DependentUpon>frmCadClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadFornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadFornecedores.Designer.cs">
+      <DependentUpon>frmCadFornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadProdutos.Designer.cs">
+      <DependentUpon>frmCadProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadUsuarios.Designer.cs">
+      <DependentUpon>frmCadUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChamadosApontamentoTecnico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChamadosApontamentoTecnico.Designer.cs">
+      <DependentUpon>frmChamadosApontamentoTecnico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChamadosAutorizacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChamadosAutorizacao.Designer.cs">
+      <DependentUpon>frmChamadosAutorizacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChamadosBaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChamadosBaixa.Designer.cs">
+      <DependentUpon>frmChamadosBaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaChamados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaChamados.Designer.cs">
+      <DependentUpon>frmConsultaChamados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainClass.cs" />
+    <Compile Include="MDIPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIPrincipal.Designer.cs">
+      <DependentUpon>MDIPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Relatorios\frmRelatorioChamadoPadrao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\frmRelatorioChamadoPadrao.Designer.cs">
+      <DependentUpon>frmRelatorioChamadoPadrao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\frmRelatorioUsuariosCadastrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\frmRelatorioUsuariosCadastrados.Designer.cs">
+      <DependentUpon>frmRelatorioUsuariosCadastrados.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmConsultaSituacaoChamado.resx">
+      <DependentUpon>frmConsultaSituacaoChamado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadChamados.resx">
+      <DependentUpon>frmCadChamados.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadClientes.resx">
+      <DependentUpon>frmCadClientes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadFornecedores.resx">
+      <DependentUpon>frmCadFornecedores.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadProdutos.resx">
+      <DependentUpon>frmCadProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadUsuarios.resx">
+      <DependentUpon>frmCadUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChamadosApontamentoTecnico.resx">
+      <DependentUpon>frmChamadosApontamentoTecnico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChamadosAutorizacao.resx">
+      <DependentUpon>frmChamadosAutorizacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChamadosBaixa.resx">
+      <DependentUpon>frmChamadosBaixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaChamados.resx">
+      <DependentUpon>frmConsultaChamados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIPrincipal.resx">
+      <DependentUpon>MDIPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Relatorios\frmRelatorioChamadoPadrao.resx">
+      <DependentUpon>frmRelatorioChamadoPadrao.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\frmRelatorioUsuariosCadastrados.resx">
+      <DependentUpon>frmRelatorioUsuariosCadastrados.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SCC.DTO\SCC_BIKE.DTO.csproj">
+      <Project>{8609BFB6-71C8-4CD6-B238-67C5AC352FA9}</Project>
+      <Name>SCC_BIKE.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCC.Model\SCC_BIKE.Model.csproj">
+      <Project>{7C4FE1E5-8A1A-4A93-BC16-6AF1DD2CE5E9}</Project>
+      <Name>SCC_BIKE.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgLogin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\PequenoBike.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

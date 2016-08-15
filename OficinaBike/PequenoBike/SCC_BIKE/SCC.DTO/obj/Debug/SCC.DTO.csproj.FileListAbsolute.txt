@@ -1,0 +1,15 @@
+D:\Projetos\SCC-WPF\SCC-Camdas\SCC\SCC.DTO\bin\Debug\SCC.DTO.dll
+D:\Projetos\SCC-WPF\SCC-Camdas\SCC\SCC.DTO\bin\Debug\SCC.DTO.pdb
+D:\Projetos\SCC-WPF\SCC-Camdas\SCC\SCC.DTO\obj\Debug\SCC.DTO.csprojResolveAssemblyReference.cache
+D:\Projetos\SCC-WPF\SCC-Camdas\SCC\SCC.DTO\obj\Debug\SCC.DTO.dll
+D:\Projetos\SCC-WPF\SCC-Camdas\SCC\SCC.DTO\obj\Debug\SCC.DTO.pdb
+D:\Projetos\SCC\SCC.DTO\bin\Debug\SCC.DTO.dll
+D:\Projetos\SCC\SCC.DTO\bin\Debug\SCC.DTO.pdb
+D:\Projetos\SCC\SCC.DTO\obj\Debug\SCC.DTO.dll
+D:\Projetos\SCC\SCC.DTO\obj\Debug\SCC.DTO.pdb
+D:\Projetos\SCC\SCC.DTO\obj\Debug\SCC.DTO.csprojResolveAssemblyReference.cache
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DTO\bin\Debug\SCC.DTO.dll
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DTO\bin\Debug\SCC.DTO.pdb
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DTO\obj\Debug\SCC.DTO.csprojResolveAssemblyReference.cache
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DTO\obj\Debug\SCC.DTO.dll
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DTO\obj\Debug\SCC.DTO.pdb

@@ -1,0 +1,16 @@
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DAO\obj\Debug\SCC_AUTO.DAO.csprojResolveAssemblyReference.cache
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DAO\bin\Debug\SCC_AUTO.DAO.dll.config
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DAO\bin\Debug\SCC_AUTO.DAO.dll
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DAO\bin\Debug\SCC_AUTO.DAO.pdb
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DAO\bin\Debug\SCC_AUTO.DTO.dll
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DAO\bin\Debug\SCC_AUTO.DTO.pdb
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DAO\obj\Debug\SCC_AUTO.DAO.dll
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DAO\obj\Debug\SCC_AUTO.DAO.pdb
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC_AUTO\SCC.DAO\bin\Debug\SCC_AUTO.DAO.dll.config
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC_AUTO\SCC.DAO\bin\Debug\SCC_AUTO.DAO.dll
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC_AUTO\SCC.DAO\bin\Debug\SCC_AUTO.DAO.pdb
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC_AUTO\SCC.DAO\bin\Debug\SCC_AUTO.DTO.dll
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC_AUTO\SCC.DAO\bin\Debug\SCC_AUTO.DTO.pdb
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC_AUTO\SCC.DAO\obj\Debug\SCC_AUTO.DAO.csprojResolveAssemblyReference.cache
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC_AUTO\SCC.DAO\obj\Debug\SCC_AUTO.DAO.dll
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC_AUTO\SCC.DAO\obj\Debug\SCC_AUTO.DAO.pdb

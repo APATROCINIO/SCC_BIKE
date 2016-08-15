@@ -1,0 +1,10 @@
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DTO\bin\Debug\SCC_AUTO.DTO.dll
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DTO\bin\Debug\SCC_AUTO.DTO.pdb
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DTO\obj\Debug\SCC_AUTO.DTO.dll
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DTO\obj\Debug\SCC_AUTO.DTO.pdb
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC\SCC.DTO\obj\Debug\SCC_AUTO.DTO.csprojResolveAssemblyReference.cache
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC_AUTO\SCC.DTO\obj\Debug\SCC_AUTO.DTO.csprojResolveAssemblyReference.cache
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC_AUTO\SCC.DTO\obj\Debug\SCC_AUTO.DTO.dll
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC_AUTO\SCC.DTO\obj\Debug\SCC_AUTO.DTO.pdb
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC_AUTO\SCC.DTO\bin\Debug\SCC_AUTO.DTO.dll
+D:\Projetos\OficinaAutomotiva\RodeMelhor\SCC_AUTO\SCC.DTO\bin\Debug\SCC_AUTO.DTO.pdb
